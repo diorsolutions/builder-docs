@@ -6,7 +6,7 @@ This is a dynamic portfolio builder application that allows users to create, cus
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 portfolio-builder/
 ├── app/                          # Next.js App Router pages
 │   ├── api/                      # API routes
@@ -28,7 +28,7 @@ portfolio-builder/
 ├── lib/                          # Utility functions and configurations
 ├── docs/                         # Documentation files
 └── public/                       # Static assets
-\`\`\`
+```
 
 ## 🔧 How It Works
 
